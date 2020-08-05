@@ -8,56 +8,26 @@ City: Sofia
 ### Things about me
 Started programming in 2018
 
-My first programming language is C# when I started with Unity
-
-My first game engine is Unity
-
 My favourite game engine is Unreal Engine 4
 
 My favourite language is C++
-
-I started doing graphics programming in late 2019 with OpenGL
 
 My favourite graphics API is Vulkan (Because it's easy to configure and use)
 
 Graphics APIs I have experience in are OpenGL, Vulkan and DirectX11
 
-I can write shaders in HLSL, GLSLVK and GLSLGL
-
 I am a big old school arena shooter fan
 
 I can speak Bulgarian, English and German
-#### Languages I have experience in: 
-JavaSript and TypeScript - beginner, 
 
-C++ - intermediate, 
-
-Dart - beginner, 
-
-C - intermediate, 
-
-Unreal Blueprints - professional, 
-
-Unreal C++ - beginner, 
-
-C# - beginner, 
-
-UnityC# - beginner,
-
-GDScript - beginner
+I have been developing games since 2018 in UE4 and I have a bit of experience there. My first game was made for the GMTK Game Jam 2020 in 3h. My second and third game are coming soon to itch.io at https://madman10k.itch.io
 #### Fields I have experience in
-##### Game Development:
-Graphics Theory - intermediate
+Basically everything game development except for game art and music
 
-Graphics Programming - intermediate
+Game Engine Development - Framework, Renderer, Editor Tools
 
-Gameplay Programming - intermediate
+I am on intemediate level in C and C++
 
-Tool Programming - beginner
+Dart, flutter included 
 
-Networking - intermediate
-
-NetCode theory - intermediate
-
-Game Design - intermediate
-
+JavaScript and Typescript for web dev
