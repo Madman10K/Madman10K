@@ -2,8 +2,11 @@
 So you are interested in the readme huh, ok then let me show you some things 
 ### Personal Bio
 Age: 14 
+
 Year of birth: 2005
+
 Country: Bulgaria
+
 City: Sofia
 ### Things about me
 Started programming in 2018
