@@ -1,16 +1,63 @@
 ### Hi there 👋
-😀Known as Madman10K, real name is Stanislav
+So you are interested in the readme huh, ok then let me show you some things 
+### Personal Bio
+Age: 14 
+Year of birth: 2005
+Country: Bulgaria
+City: Sofia
+### Things about me
+Started programming in 2018
 
-🇧🇬14 years old from Sofia, Bulgaria
+My first programming language is C# when I started with Unity
 
-😎Big C and C++ nerd 
+My first game engine is Unity
 
-🥳OpenGL is party time 
+My favourite game engine is Unreal Engine 4
 
-🌋Part of the Vulkan cult 🙌
+My favourite language is C++
 
-❎Will be learning DirectX soon
+I started doing graphics programming in late 2019 with OpenGL
 
-🎮Writing a game engine 
+My favourite graphics API is Vulkan (Because it's easy to configure and use)
 
-🕹Will be releasing a game soon
+Graphics APIs I have experience in are OpenGL, Vulkan and DirectX11
+
+I can write shaders in HLSL, GLSLVK and GLSLGL
+
+I am a big old school arena shooter fan
+
+I can speak Bulgarian, English and German
+#### Languages I have experience in: 
+JavaSript and TypeScript - beginner, 
+
+C++ - intermediate, 
+
+Dart - beginner, 
+
+C - intermediate, 
+
+Unreal Blueprints - professional, 
+
+Unreal C++ - beginner, 
+
+C# - beginner, 
+
+UnityC# - beginner,
+
+GDScript - beginner
+#### Fields I have experience in
+##### Game Development:
+Graphics Theory - intermediate
+
+Graphics Programming - intermediate
+
+Gameplay Programming - intermediate
+
+Tool Programming - beginner
+
+Networking - intermediate
+
+NetCode theory - intermediate
+
+Game Design - intermediate
+
