@@ -8,5 +8,6 @@ I like to do game development in Unreal Engine
 I also like making game engines 
 
 ![Madman10K github stats](https://github-readme-stats.vercel.app/api?username=Madman10K&theme=dark&show_icons=true&hide_border=true)
-# Want to know more? Open this [document](ReadmeLonger.md)
+
+Want to know more? Open this [document](ReadmeLonger.md)
 
