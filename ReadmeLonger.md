@@ -18,4 +18,14 @@ GLM, GLFW, GLEW, EnTT, OpenAL, stbimage
 Unreal Blueprints, Unreal Material Editor, Blender Material Editor, Lua
 ## Others 
 SteamworksSDK, Firebase, Git, Mod.io
-
+# My projects
+## Games (all games are in Unreal Engine)
+• Project Anomaly(SteamworksSDK, Mod.io) - In development
+• Project Apex(SteamworksSDK, Mod.io) - In development
+• VRPlace(SteamworksSDK, Mod.io) - In development
+• ExtOS - near release
+• CTRL - cancelled
+## Github Projects
+• Untitled Vulkan Game Engine() - Cancelled
+• Untitled Chat Application(Dart, Flutter) - Cancelled
+• AvantaEngine() - planning stage
