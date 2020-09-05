@@ -20,18 +20,19 @@ Unreal Blueprints, Unreal Material Editor, Blender Material Editor, Lua
 SteamworksSDK, Firebase, Git, Mod.io
 # My projects
 ## Games (all games are in Unreal Engine)
-• Project Anomaly(SteamworksSDK, Mod.io) - In development
-
-• Project Apex(SteamworksSDK, Mod.io) - In development
-
-• VRPlace(SteamworksSDK, Mod.io) - In development
-
-• ExtOS - near release
-
-• CTRL - cancelled
+- Project Anomaly(SteamworksSDK, Mod.io) - In development
+- Project Apex(SteamworksSDK, Mod.io) - In development
+- VRPlace(SteamworksSDK, Mod.io) - In development
+- ExtOS - near release
+- CTRL - Cancelled
 ## Github Projects
-• Untitled Vulkan Game Engine([Libraries](https://github.com/Madman10K/Madman10K/blob/master/ReadmeLonger.md#libraries), [GraphicsAPIs](https://github.com/Madman10K/Madman10K/blob/master/ReadmeLonger.md#graphics-apis)) - Cancelled
-
-• Untitled Chat Application(Dart, Flutter) - Cancelled
-
-• AvantaEngine([Libraries](https://github.com/Madman10K/Madman10K/blob/master/ReadmeLonger.md#libraries), [GraphicsAPIs](https://github.com/Madman10K/Madman10K/blob/master/ReadmeLonger.md#graphics-apis)) - planning stage
+- Untitled Vulkan Game Engine([Libraries](https://github.com/Madman10K/Madman10K/blob/master/ReadmeLonger.md#libraries), [GraphicsAPIs](https://github.com/Madman10K/Madman10K/blob/master/ReadmeLonger.md#graphics-apis)) - Cancelled
+- Untitled Chat Application(Dart, Flutter) - Planning Stage
+- AvantaEngine([Libraries](https://github.com/Madman10K/Madman10K/blob/master/ReadmeLonger.md#libraries), [GraphicsAPIs](https://github.com/Madman10K/Madman10K/blob/master/ReadmeLonger.md#graphics-apis)) - planning stage
+# Contact
+- E-mail: contact@madman10k.online
+- Discord: Madman10K#3950
+- Website: https://madman10k.online
+- Discord Server: https://discord.gg/j8XZCPY
+- itch.io: https://madman10k.itch.io/
+- binarysearh: https://binarysearch.io/@/Madman10K
