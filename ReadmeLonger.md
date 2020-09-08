@@ -3,9 +3,9 @@
 Hello I am Madman10K but my real name is Stanislav. I am currently 14 years old and I live in Sofia, Bulgaria.
 # My experience
 ## Languages
-C, C++, C#, JavaScript, TypeScript, Dart, HTML, CSS
+C, C++, C#, Golang, JavaScript, TypeScript, Dart, HTML, CSS
 
-I have most experience with C and C++, kind of experienced in Dart, C#, JS and TS and I have some very limited experience with HTML and CSS
+I have most experience with C and C++, kind of experienced in Dart, C#, Golang, JS and TS and I have some very limited experience with HTML and CSS
 ## Frameworks
 Discord.js, DiscordRP for C++, DiscordGameSDK for C++, Flutter
 ## Game Engines 
@@ -29,6 +29,11 @@ SteamworksSDK, Firebase, Git, Mod.io
 - Untitled Vulkan Game Engine([Libraries](https://github.com/Madman10K/Madman10K/blob/master/ReadmeLonger.md#libraries), [GraphicsAPIs](https://github.com/Madman10K/Madman10K/blob/master/ReadmeLonger.md#graphics-apis)) - Cancelled
 - Untitled Chat Application(Dart, Flutter) - Planning Stage
 - AvantaEngine([Libraries](https://github.com/Madman10K/Madman10K/blob/master/ReadmeLonger.md#libraries), [GraphicsAPIs](https://github.com/Madman10K/Madman10K/blob/master/ReadmeLonger.md#graphics-apis)) - planning stage
+### Github profiles
+- [Madman10K](https://github.com/Madman10K/)
+- [MadLadSquad(The game dev profile)](https://github.com/MadLadSquad)
+- [MadLadSquad Software(This is for software made by us)](https://github.com/MadLadSquadSoftware)
+- [AvantaSoftwareFoundation(Joke org)](https://github.com/AvantaSoftwareFoundation/)
 # Contact
 - E-mail: contact@madman10k.online
 - Discord: Madman10K#3950
