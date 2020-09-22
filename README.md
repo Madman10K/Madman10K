@@ -11,8 +11,8 @@ I also like making game engines
 [![Madman10K top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Madman10K&layout=compact&theme=light&show_icons=true&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 My schedule:
-Monday | Thuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
------- | -------- | --------- | -------- | ------ | -------- | ------ |
+Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
+------ | ------- | --------- | -------- | ------ | -------- | ------ |
 Learning Math | Project Anomaly Programming | Making Site | Learning Data Structures | Flutter Experiments | Learning Algorithms | Making Some Music |  
 Anonaly Concept Art | Anomaly Level Design | Anomaly API development | Learning Graphics Theory | Learning Design Patterns | UI/UX | School Stuff |
 School Stuff | School Stuff | Discord Bot Development | Learning Golang | Learning C and C++ | Making SFX | School Stuff | Project Anomaly Bug Fixing |
