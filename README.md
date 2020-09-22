@@ -14,8 +14,9 @@ My schedule:
 
 Monday | Thuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
 ------ | -------- | --------- | -------- | ------ | -------- | ------ |
-Learning Math | Project Anomaly programming | Making site | learning Data Structures | Flutter experiments | Learning algorithms | Making some music |  
+Learning Math | Project Anomaly Programming | Making Site | Learning Data Structures | Flutter Experiments | Learning Algorithms | Making Some Music |  
 Anonaly Concept Art | Anomaly Level Design | Anomaly API development | Learning Graphics Theory | Learning Design Patterns | UI/UX | School Stuff |
+School Stuff | School Stuff | Discord Bot Development | Learning Golang | Learning C and C++ | Making SFX | School Stuff | Project Anomaly Bug Fixing |
 
 Want to know more? Open this [document](https://github.com/Madman10K/Madman10K/blob/master/ReadmeLonger.md)!
 
