@@ -13,8 +13,8 @@ I also like making game engines
 My schedule:
 
 Monday | Thuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
------------------------------------------------------------------------
-Learning Math | [Project Anomaly](https://madladsquad.com/anomaly)programming | [Project Anomaly](https://madladsquad.com/anomaly)site  
+------ | -------- | --------- | -------- | ------ | -------- | ------ |
+Learning Math | Project Anomaly programming | Site | learning Data Structures | Flutter experiments | Learning algorithms | Making some music |  
 
 Want to know more? Open this [document](https://github.com/Madman10K/Madman10K/blob/master/ReadmeLonger.md)!
 
