@@ -10,5 +10,11 @@ I also like making game engines
 ![Madman10K github stats](https://github-readme-stats.vercel.app/api?username=Madman10K&theme=light&include_all_commits=true&show_icons=true&hide_border=true&count_private=true)
 [![Madman10K top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Madman10K&layout=compact&theme=light&show_icons=true&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+My schedule:
+
+Monday | Thuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
+-----------------------------------------------------------------------
+Learning Math | [Project Anomaly](https://madladsquad.com/anomaly)programming | [Project Anomaly](https://madladsquad.com/anomaly)site  
+
 Want to know more? Open this [document](https://github.com/Madman10K/Madman10K/blob/master/ReadmeLonger.md)!
 
