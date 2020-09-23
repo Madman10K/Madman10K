@@ -17,6 +17,7 @@ Learning Math | Project Anomaly Programming | Making Site | Learning Data Struct
 Anonaly Concept Art | Anomaly Level Design | Anomaly API development | Learning Graphics Theory | Learning Design Patterns | UI/UX | School Stuff |
 School Stuff | School Stuff | Discord Bot Development | Learning Golang | Learning C and C++ | Making SFX | School Stuff | Project Anomaly Bug Fixing |
 Reading about Physics | Learning OpenGL | Learning Vulkan | Learning DirectX | Learning GLSL | Learning HLSL | School Stuff | 
+Free Time | Free Time | Free Time | Free Time | Free Time | Free Time | Free Time |
 
 Want to know more? Open this [document](https://github.com/Madman10K/Madman10K/blob/master/ReadmeLonger.md)!
 
