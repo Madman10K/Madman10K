@@ -9,7 +9,7 @@ I have most experience with C and C++, kind of experienced in Dart, C#, Golang, 
 ## Frameworks
 Discord.js, DiscordRP for C++, DiscordGameSDK for C++, Flutter
 ## Game Engines 
-Unreal Engine 4 from 4.18, a little bit of unity and GoDot, 
+Unreal Engine since 4.18, a little bit of unity and GoDot, 
 ## Graphics APIs
 Vulkan, OpenGL, GLSL for Vulkan, GLSL for OpenGL, limited knowledge of DirectX11 and HLSL
 ## Libraries
@@ -27,7 +27,7 @@ SteamworksSDK, Firebase, Git, Mod.io
 - CTRL - Cancelled
 ## Github Projects
 - Untitled Vulkan Game Engine([Libraries](https://github.com/Madman10K/Madman10K/blob/master/ReadmeLonger.md#libraries), [GraphicsAPIs](https://github.com/Madman10K/Madman10K/blob/master/ReadmeLonger.md#graphics-apis)) - Cancelled
-- Untitled Vulkan Game Engine 2([libraries](https://github.com/Madman10K/Madman10K/blob/master/ReadmeLonger.md#libraries), [GraphicsAPIs](https://github.com/Madman10K/Madman10K/blob/master/ReadmeLonger.md#graphics-apis)) - In active development
+- Untitled Vulkan Game Engine 2([Libraries](https://github.com/Madman10K/Madman10K/blob/master/ReadmeLonger.md#libraries), [GraphicsAPIs](https://github.com/Madman10K/Madman10K/blob/master/ReadmeLonger.md#graphics-apis)) - In active development
 - Untitled Chat Application(Dart, Flutter) - Planning Stage
 ### Github profiles
 - [Madman10K](https://github.com/Madman10K/)
