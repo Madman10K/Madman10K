@@ -27,8 +27,8 @@ SteamworksSDK, Firebase, Git, Mod.io
 - CTRL - Cancelled
 ## Github Projects
 - Untitled Vulkan Game Engine([Libraries](https://github.com/Madman10K/Madman10K/blob/master/ReadmeLonger.md#libraries), [GraphicsAPIs](https://github.com/Madman10K/Madman10K/blob/master/ReadmeLonger.md#graphics-apis)) - Cancelled
+- Untitled Vulkan Game Engine 2([libraries](https://github.com/Madman10K/Madman10K/blob/master/ReadmeLonger.md#libraries), [GraphicsAPIs](https://github.com/Madman10K/Madman10K/blob/master/ReadmeLonger.md#graphics-apis)) - In active development
 - Untitled Chat Application(Dart, Flutter) - Planning Stage
-- AvantaEngine([Libraries](https://github.com/Madman10K/Madman10K/blob/master/ReadmeLonger.md#libraries), [GraphicsAPIs](https://github.com/Madman10K/Madman10K/blob/master/ReadmeLonger.md#graphics-apis)) - planning stage
 ### Github profiles
 - [Madman10K](https://github.com/Madman10K/)
 - [MadLadSquad(The game dev profile)](https://github.com/MadLadSquad)
@@ -37,7 +37,7 @@ SteamworksSDK, Firebase, Git, Mod.io
 # Contact
 - E-mail: contact@madman10k.online
 - Discord: Madman10K#3950
-- Website: https://madman10k.online
+- Website: https://madladsquad.com/
 - Discord Server: https://discord.gg/j8XZCPY
 - itch.io: https://madman10k.itch.io/
 - binarysearh: https://binarysearch.io/@/Madman10K
