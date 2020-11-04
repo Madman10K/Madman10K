@@ -1,6 +1,6 @@
 # Welcome to the long readme
 # Who am I 
-Hello I am Madman10K but my real name is Stanislav. I am currently 14 years old and I live in Sofia, Bulgaria.
+Hello I am Madman10K but my real name is Stanislav and I live in Sofia, Bulgaria.
 # My experience
 ## Languages
 C, C++, C#, Golang, JavaScript, TypeScript, Dart, HTML, CSS
