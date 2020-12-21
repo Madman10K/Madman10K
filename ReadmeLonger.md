@@ -17,7 +17,7 @@ GLM, GLFW, GLEW, EnTT, OpenAL, stbimage
 ## Scripting Languages
 Unreal Blueprints, Unreal Material Editor, Blender Material Editor, Lua
 ## Others 
-SteamworksSDK, Firebase, Git, Mod.io
+SteamworksSDK, Firebase, Git, Mod.io, CMake
 # My projects
 ## Games (all games are in Unreal Engine)
 - Project Anomaly(SteamworksSDK, Mod.io) - In development
@@ -38,7 +38,7 @@ SteamworksSDK, Firebase, Git, Mod.io
 # Contact
 - E-mail: contact@madman10k.online
 - Discord: Madman10K#3950
-- Website: https://madladsquad.com/
+- Website: https://madman10k.online/ & https://madladsquad.com/
 - Discord Server: https://discord.gg/j8XZCPY
 - itch.io: https://madman10k.itch.io/
 - binarysearh: https://binarysearch.io/@/Madman10K
