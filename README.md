@@ -3,7 +3,7 @@ I am Madman10K or IRL name Stanislav Vasilev, I am from Sofia, Bulgaria and I am
 
 ![gentoo](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.retro-arcade.net%2Fpictures%2Fpng%2Fgentoo-logo.png&f=1&nofb=1)
 
-Countinuing on I am also am a strong follower of the GNU religion
+Continuing on I am also am a strong follower of the GNU religion
 
 ![GNU](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F2%2F22%2FHeckert_GNU_white.svg%2F200px-Heckert_GNU_white.svg.png&f=1&nofb=1)
 
