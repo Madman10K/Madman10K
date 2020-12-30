@@ -11,7 +11,7 @@ So as I was saying in my past life a.k.a. from when I was 12 until 14 I did Unre
 
 ![UE4](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fyt3.ggpht.com%2F-GvSh79CS6-k%2FAAAAAAAAAAI%2FAAAAAAAAAAA%2FtUYENAqlnYo%2Fs200-c-k-no-mo-rj-c0xffffff%2Fphoto.jpg&f=1&nofb=1) 
 
-Anyway you might want to check my "company"(I don't own a company lol I am under 18) where I make my game engine and games.
+Anyway you might want to check my "[company](https://github.com/MadLadSquad)"(I don't own a company lol I am under 18) where I make my game engine and games.
 ![https://github.com/MadLadSquad](https://avatars2.githubusercontent.com/u/66491677?s=200&v=4)
 
 
