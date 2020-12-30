@@ -1,7 +1,7 @@
 # Hey there :wave: 
 I am Madman10K or IRL name Stanislav Vasilev, I am from Sofia, Bulgaria and I am currently 15 years old. I do C++ and ~~game dev~~ actually game dev is too easy so I am now making game engines. Anyway I am extra autistic which is obvious since I use gentoo as my daily driver OS. 
 
-![gentoo](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.retro-arcade.net%2Fpictures%2Fpng%2Fgentoo-logo.png&f=1&nofb=1)
+![https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.retro-arcade.net%2Fpictures%2Fpng%2Fgentoo-logo.png&f=1&nofb=1]()
 
 Continuing on I am also am a strong follower of the GNU religion
 
