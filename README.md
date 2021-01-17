@@ -9,3 +9,4 @@ I am Madman10K or IRL name Stanislav Vasilev, I am from Sofia, Bulgaria and I am
 [![Madman10K top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Madman10K&layout=compact&theme=light&show_icons=true&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 Want to know more? Open this [document](https://github.com/Madman10K/Madman10K/blob/master/ReadmeLonger.md)!
+
