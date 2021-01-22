@@ -33,7 +33,7 @@ I have mostly use C and C++ for game engines, Dart for mobile dev with [flutter]
 - [MadLadSquad(The game dev profile)](https://github.com/MadLadSquad)
 # Contact
 - E-mail: contact@madman10k.online
-- Discord: Madman10K#3950
+- Discord: Madman10K#0345
 - Website: https://madman10k.online/ & https://madladsquad.com/
 - Discord Server: https://discord.gg/j8XZCPY
 - itch.io: https://madman10k.itch.io/
