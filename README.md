@@ -5,6 +5,10 @@ I am Madman10K or IRL name Stanislav Vasilev, I am from Sofia, Bulgaria and I am
 ![Madman10K github stats](https://github-readme-stats-xi-ochre.vercel.app/api?username=Madman10K&theme=light&include_all_commits=true&show_icons=true&hide_border=true&count_private=true)
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#1094](https://github.com/anuraghazra/github-readme-stats/issues/1094) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+2. 🎉 Merged PR [#1](https://github.com/Madman10K/Madman10K/pull/1) in [Madman10K/Madman10K](https://github.com/Madman10K/Madman10K)
+3. 💪 Opened PR [#1](https://github.com/Madman10K/Madman10K/pull/1) in [Madman10K/Madman10K](https://github.com/Madman10K/Madman10K)
+<!--END_SECTION:activity-->
 
 ## Contact
 - Email: contact@madman10k.online
