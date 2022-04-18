@@ -3,7 +3,6 @@ I am Madman10K or IRL name Stanislav Vasilev, I develop various types of C++ app
 
 ### This account is only for insignificant personal projects! I mainly develop on the [MadLadSquad](https://github.com/MadLadSquad) organization where I am the head developer and manager of most of them!
 
-[![Madman10K's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Madman10K)](https://github.com/anuraghazra/github-readme-stats)
 ![Madman10K github stats](https://github-readme-stats-xi-ochre.vercel.app/api?username=Madman10K&theme=light&include_all_commits=true&show_icons=true&hide_border=true&count_private=true)
 ## Contact
 - Email: stanv.contact176@gmail.com
