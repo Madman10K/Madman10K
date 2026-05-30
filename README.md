@@ -4,6 +4,6 @@ I am Madman10K or IRL name Stanislav Vasilev, I develop various types of C++ app
 More info can be found on my website at <https://i-use-gentoo-btw.com>.
 
 ## Contact
-- E-mails: stanv.contact176@gmail.com, contact@madman10k.online, contact@i-use-gentoo-btw.com, stanislav.vasilev@madladsquad.com, stanislav.vasilev@heapforge.com, stanislav.vasilev@tiny.lol
+- E-mails: stanv.contact176@gmail.com, contact@madman10k.online, contact@i-use-gentoo-btw.com, stanislav.vasilev@madladsquad.com, stanislav.vasilev@heapforge.com
 - Website: <https://i-use-gentoo-btw.com>/<https://madman10k.online>
 - Discord: madman10k
